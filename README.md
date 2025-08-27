@@ -1,4 +1,13 @@
-# [IN DEVELOPING]
+# [WORKTIME: 6H]
 
-### An AI-based (minimax) bot that plays TicTacToe. This project is my introduction to bot programming.
-### The user interface will be in CLI (I will do everything I can to avoid writing a frontend).
+### An AI-based (minimax) bot that plays TicTacToe.
+
+To run:
+```bash
+g++ -std=c++17 -Wall -Iinclude src/*.cpp -o tictactoe
+```
+and then:
+```bash
+./tictactoe
+```
+
